@@ -3,8 +3,8 @@ The Gizra Way is a set of best practice and standardisation for development team
 
 ## Time estimation, budget, tracking, briefing and debriefing
 First stage of any project is budget definition and time estimation, those two component are key factors for any successful project, before starting to write the first line of code we should already know what are the resources available for the project.
-First and most important rule is: *No matter how long it takes, fully understand the project requirement and customer expectation before starting any actual work*
-This rule is the *key* to a successful project.
+First and most important rule is: **No matter how long it takes, fully understand the project requirement and customer expectation before starting any actual work**
+This rule is the **key** to a successful project.
 
 On many project we will have a first phase to deliver partially functional mockups to help fully understand the project specification, this phase should be T&M but within a reasonable timeframe.
 
@@ -29,7 +29,7 @@ The CTO of the company who is in charge of the overall standardisation, will sit
 
 
 ## Testing suites
-*Rules of thumbs:*
+**Rules of thumbs:**
 * 100% of project have automated test coverage.
 * 100% of access related function are tested.
 * We aim to have 10%-15% of feature covered by automated testing.
