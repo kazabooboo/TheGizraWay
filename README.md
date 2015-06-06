@@ -1,6 +1,13 @@
 # The Gizra Way
 The Gizra Way is a set of best practice and standardisation for development team and project managers that aim to deliver 100% successful project.
 
+Table of Contents
+=================
+
+  * [Time-estimation, budget, tracking, briefing and debriefing](#dockerfilevim)
+  * [HTML Markup first](#html-markup-first)
+  
+
 ## Time estimation, budget, tracking, briefing and debriefing
 First stage of any project is budget definition and time estimation, those two component are key factors for any successful project, before starting to write the first line of code we should already know what are the resources available for the project.
 First and most important rule is: **No matter how long it takes, fully understand the project requirement and customer expectation before starting any actual work**
