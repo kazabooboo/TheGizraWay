@@ -9,6 +9,7 @@ This rule is the **key** to a successful project.
 On many project we will have a first phase to deliver partially functional mockups to help fully understand the project specification, this phase should be T&M but within a reasonable timeframe.
 
 ### HTML Markup first
+Before stasting to code actual functionality, an fuctional HTML markup should be reviewed and approved by your customer, this process ensure expectation are syncronized.
 
 ### Deliverables
 * Time estimate per task, the resolution should be no more than 8-10H per task. [Template for Time estimation](https://drive.google.com/previewtemplate?id=0AkSgt1Y3Gz0odDlTajhLR3FocGJSaXp5aXNsSHZabmc&mode=public)
