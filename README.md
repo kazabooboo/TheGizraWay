@@ -4,8 +4,13 @@ The Gizra Way is a set of best practice and standardisation for development team
 Table of Contents
 =================
 
-  * [Time-estimation, budget, tracking, briefing and debriefing](#dockerfilevim)
+  * [Time-estimation, budget, tracking, briefing and debriefing](#time-estimation-budget-tracking-briefing-and-debriefing)
+   * [TheGizraWay#html-markup-first]
   * [HTML Markup first](#html-markup-first)
+  * []
+  * []
+  * []
+  * []
   
 
 ## Time estimation, budget, tracking, briefing and debriefing
