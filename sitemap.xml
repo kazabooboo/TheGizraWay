@@ -1,30 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>gizra.github.io/TheGizraWay/</loc>
-    <lastmod>2015-06-07T23:55:19+03:00</lastmod>
+    <loc>thegizraway.com/</loc>
+    <lastmod>2015-06-08T00:04:48+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   
   <url>
-    <loc>gizra.github.io/TheGizraWay/404/</loc>
+    <loc>thegizraway.com/404/</loc>
     
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>gizra.github.io/TheGizraWay/atom.xml</loc>
-    
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -35,22 +22,9 @@
   </url>
   
   <url>
-    <loc>gizra.github.io/TheGizraWay/code-review/</loc>
+    <loc>thegizraway.com/atom.xml</loc>
     
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>gizra.github.io/TheGizraWay/discovery-phase/</loc>
-    
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -61,22 +35,9 @@
   </url>
   
   <url>
-    <loc>gizra.github.io/TheGizraWay/</loc>
+    <loc>thegizraway.com/code-review/</loc>
     
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>gizra.github.io/TheGizraWay/issue-queue/</loc>
-    
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -87,22 +48,9 @@
   </url>
   
   <url>
-    <loc>gizra.github.io/TheGizraWay/presale/</loc>
+    <loc>thegizraway.com/discovery-phase/</loc>
     
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>gizra.github.io/TheGizraWay/qa/</loc>
-    
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -113,9 +61,61 @@
   </url>
   
   <url>
-    <loc>gizra.github.io/TheGizraWay/sitemap.xml</loc>
+    <loc>thegizraway.com/</loc>
     
-      <lastmod>2015-06-07T23:55:19+03:00</lastmod>
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/issue-queue/</loc>
+    
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/presale/</loc>
+    
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/qa/</loc>
+    
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/sitemap.xml</loc>
+    
+      <lastmod>2015-06-08T00:04:48+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>

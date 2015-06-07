@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The Gizra Way</title>
- <link href="gizra.github.io/TheGizraWay/atom.xml" rel="self"/>
- <link href="gizra.github.io/TheGizraWay/"/>
- <updated>2015-06-07T23:55:19+03:00</updated>
- <id>gizra.github.io/TheGizraWay</id>
+ <link href="thegizraway.com/atom.xml" rel="self"/>
+ <link href="thegizraway.com/"/>
+ <updated>2015-06-08T00:04:48+03:00</updated>
+ <id>thegizraway.com</id>
  <author>
    <name></name>
    <email></email>
