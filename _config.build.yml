@@ -2,7 +2,8 @@
 # Overrides these options in _config.yml
 
 # Overrides the default URL, needed for your atom feed and sitemap
-url: gizra.github.io/TheGizraWay
+url: thegizraway.com
+googleAnalytics: UA-6558346-11
 
 # Hides your drafts and future posts
 future: false
