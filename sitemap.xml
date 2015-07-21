@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>thegizraway.com/</loc>
-    <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+    <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -11,7 +11,7 @@
   <url>
     <loc>thegizraway.com/404/</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -24,7 +24,7 @@
   <url>
     <loc>thegizraway.com/atom.xml</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -37,46 +37,7 @@
   <url>
     <loc>thegizraway.com/</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>thegizraway.com/discovery-phase/</loc>
-    
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>thegizraway.com/codified-knowledge-base/</loc>
-    
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>thegizraway.com/qa/</loc>
-    
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -89,7 +50,7 @@
   <url>
     <loc>thegizraway.com/issue-queue/</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -100,9 +61,22 @@
   </url>
   
   <url>
-    <loc>thegizraway.com/presale/</loc>
+    <loc>thegizraway.com/codified-knowledge-base/</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/qa/</loc>
+    
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -115,7 +89,33 @@
   <url>
     <loc>thegizraway.com/code-review/</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/discovery-phase/</loc>
+    
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>thegizraway.com/presale/</loc>
+    
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -128,7 +128,7 @@
   <url>
     <loc>thegizraway.com/sitemap.xml</loc>
     
-      <lastmod>2015-07-20T15:39:31+03:00</lastmod>
+      <lastmod>2015-07-21T11:51:41+03:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
