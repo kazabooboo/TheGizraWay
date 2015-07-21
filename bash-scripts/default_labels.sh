@@ -6,11 +6,13 @@ read USER
 echo -n "GitHub Password: "
 read -s PASS
 
-REPO_USER="Gizra"
-
 echo ""
-echo -n "GitHub Repo Name: "
-read REPO_NAME
+echo -n "GitHub Repo (e.g. foo/bar): "
+read REPO
+
+REPO_USER=$(echo "$REPO" | cut -f1 -d /)
+
+REPO_NAME=$(echo "$REPO" | cut -f2 -d /)
 
 # Default Labels.
 declare -A LABELS
