@@ -3,7 +3,7 @@ layout: page
 title: Issue Queue
 ---
 
-Issues are open and manged on Github with the time estimated in the title using the ... markup.
+Issues are open and manged on Github with the time estimated in the title using the [] markup.
 
 The following standard tags are used to mark issues:
 
@@ -24,5 +24,4 @@ The following standard tags are used to mark issues:
 1. Missing PSD
 1. CSS
 1. Priority
-1. Can't reproduce 
-
+1. Can't reproduce
