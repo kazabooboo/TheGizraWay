@@ -15,7 +15,6 @@ REPO_USER=$(echo "$REPO" | cut -f1 -d /)
 REPO_NAME=$(echo "$REPO" | cut -f2 -d /)
 
 # Default Labels.
-declare -A LABELS
 LABELS=(
   ["Merged"]="bfe5bf"
   ["Dev"]="009800"
